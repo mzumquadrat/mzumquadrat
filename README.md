@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mzumquadrat
-- 🌱 I’m currently learning how to programm in Go and Fennel
+- 🌱 I’m currently learning how to programm in Go and Lua
 
 <!---
 mzumquadrat/mzumquadrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
